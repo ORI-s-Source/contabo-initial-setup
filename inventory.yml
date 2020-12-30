@@ -56,7 +56,7 @@ all:
         3863
       additional_ips:
         - ipv4: 193.200.241.30
-          ipv6: 2a02:c205:3006:6095:0000:0000:0000:0002
+          ipv6: 2a02:c205:3006:6064:0000:0000:0000:0002
     bbb5.ori.schuledigital.com:
       ansible_host: 193.200.241.172
       root_password: !vault |
